@@ -9,6 +9,7 @@
 //  Change the scene's anchor point to X:0, Y:0 its width to 1024 and its height to 768.
 //  Open Assets.xcassets and delete the Spaceship image.
 //  Delete all boiler code as per below.
+//
 
 
 import SpriteKit
