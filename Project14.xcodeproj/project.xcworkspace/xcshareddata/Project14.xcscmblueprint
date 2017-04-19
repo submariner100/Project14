@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8E5C41EB3E214EF930BBC0E5573F9A124B43D118",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6E656DA11FB422A7B686365B6E22B8C569712BC8" : 9223372036854775807,
+    "8E5C41EB3E214EF930BBC0E5573F9A124B43D118" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DD5B83EA-55E0-4A4C-902A-AEEBCEA7BAC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6E656DA11FB422A7B686365B6E22B8C569712BC8" : "",
+    "8E5C41EB3E214EF930BBC0E5573F9A124B43D118" : "Project14\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Project14",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Project14.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:submariner100\/Project6b.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E656DA11FB422A7B686365B6E22B8C569712BC8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:submariner100\/Project14.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E5C41EB3E214EF930BBC0E5573F9A124B43D118"
+    }
+  ]
+}
